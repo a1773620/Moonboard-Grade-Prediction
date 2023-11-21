@@ -1,0 +1,11 @@
+name,grade,userGrade,is_benchmark,moves,repeats,grade_index,userGrade_index,id
+Far from the Madding Crowd,6B+,6B+,True,"['E6', 'C5', 'E8', 'F11', 'C13', 'D15', 'D18']",28038,1,1,0
+Wuthering Heights,6B+,6B+,True,"['F5', 'J8', 'I11', 'K11', 'G13', 'E15', 'E18']",40377,1,1,1
+Problem 3,6B+,6B+,False,"['F5', 'J5', 'F9', 'C10', 'G13', 'E15', 'I18']",863,1,1,2
+HARD TIMES,7A,7A,True,"['B10', 'E6', 'E8', 'E12', 'E16', 'G4', 'I18', 'J5']",9514,4,4,3
+Problem 5,7A,7A,False,"['C5', 'D7', 'A9', 'F11', 'F13', 'I14', 'E16', 'D18']",275,4,4,4
+CRIME AND PUNISHMENT,7B,7B,False,"['D3', 'D6', 'F9', 'I12', 'D13', 'D16', 'C18']",258,6,6,5
+Shortround,6C+,6C+,False,"['D3', 'B4', 'C7', 'F9', 'C12', 'D13', 'A16', 'C18']",580,3,3,6
+Vurt,7B,7B,True,"['B3', 'E7', 'C10', 'F12', 'G14', 'I18']",1417,6,6,7
+Problem 9,7A+,7A+,True,"['J5', 'H8', 'C10', 'E13', 'B16', 'G18']",2642,5,5,8
+Tess,6C+,6C+,True,"['F5', 'I5', 'F9', 'C10', 'F11', 'C14', 'C15', 'E18', 'E18']",10649,3,3,9
